@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5c293f88-988c-4b4d-aba0-140ed8e10f50" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Submission/CS 155 Set 1 Problem 1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Submission/~$ 155 Set 1 Problem 1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.ipynb_checkpoints/2_notebook-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.ipynb_checkpoints/3_notebook_part1-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.ipynb_checkpoints/4_notebook-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/animation2.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SURF new CRN/CRNSimulator.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SURF new CRN/CRNSimulatorExtensions.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SURF new CRN/CRNSimulatorSSA.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SURF new CRN/ReactionDiffusion.nb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SURF new CRN/SolutionAssignment8.nb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SURF new CRN/SurfaceCRNs.nb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SURF new CRN/k-coloring-surface-2022.nb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SURF new CRN/old notebooks/CRNSimulator.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SURF new CRN/old notebooks/CRNSimulatorExtensions.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SURF new CRN/old notebooks/CRNSimulatorSSA.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SURF new CRN/old notebooks/CRNSimulatorSSA5.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SURF new CRN/old notebooks/FastSurfaceCRNs.nb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SURF new CRN/old notebooks/K-Coloring-Surface-CRNs.nb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SURF new CRN/old notebooks/PetfordWelshExtract.nb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SURF new CRN/old notebooks/ReactionDiffusion.nb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SURF new CRN/old notebooks/SurfaceCRNs.nb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SURF new CRN/old notebooks/SurfaceCircuitSAT.nb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SURF new CRN/old notebooks/randomised_3_colouring.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2K0ZYDtGX6gccEqDkoXvah1sbUi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/acheron/Desktop/set1",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
